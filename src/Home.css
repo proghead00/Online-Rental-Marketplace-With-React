@@ -1,0 +1,8 @@
+.home__section{
+    display: flex;
+    padding:30px;
+    /*👉margin-top: 50px;👈*/
+}
+*{
+    font-family: 'Poppins', sans-serif;
+}

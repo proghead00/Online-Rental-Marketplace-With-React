@@ -1,0 +1,21 @@
+.footer{
+    border-top:  1px solid lightgray;
+    padding : 20px;
+    background-color: #f7f7f7;
+    text-align-last: center;
+    
+
+}
+
+.footer > p{
+    padding : 5px;
+    font-size: 14px;
+}
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.tt{
+    text-decoration: none;
+    color: rgb(7, 100, 100);
+}

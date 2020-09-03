@@ -1,0 +1,51 @@
+.banner {
+    background: url("https://images.unsplash.com/photo-1558882224-dda166733046?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1049&q=80")  center;
+    height: 50vh;
+    position: relative;
+    box-shadow: 0px 9px 18px -9px rgba(0,0,0, 1);
+    border-radius: 15px;
+  }
+  
+  .banner__info {
+      background-color: rgb(39, 38, 38);
+      color: white;
+      padding-top: 6vh;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-bottom: 40px;
+      box-shadow: 0px 9px 18px -9px rgba(0,0,0, 1);
+      width: 300px;
+      border-radius: 15px;
+  }
+  
+  .banner__search {
+      display: flex;
+      flex-direction: column;
+      
+  }
+  
+  .banner__searchButton {
+    background-color: white !important;
+    font-weight: 900 !important;
+    text-transform: inherit !important;
+    color: #ff7779 !important;
+  }
+  
+  .banner__info > button {
+      background-color: #fd686a;
+      color: rgb(37, 37, 37);
+      text-transform: inherit;
+      margin-top: 20px;
+      font-weight: 600;
+  }
+  
+  .banner__info > button:hover {
+      background-color: white;
+      color: #fd686a;
+    }
+    
+  
+  .banner__info > h5 {
+      margin-top: 10px;
+      color: rgb(228, 228, 228);
+  }
