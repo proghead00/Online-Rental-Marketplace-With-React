@@ -9,7 +9,11 @@
 
 ---
 
-![ss](https://user-images.githubusercontent.com/55017730/92151295-85e54680-ee3e-11ea-88da-788b041ab2ea.png)
+![ss](https://user-images.githubusercontent.com/55017730/92153323-b4185580-ee41-11ea-8c59-70f76d919d1e.png)
+
+
+
+![date](https://user-images.githubusercontent.com/55017730/92153225-8c28f200-ee41-11ea-914d-ec5ca6e6d446.png)
 
 ---
 
