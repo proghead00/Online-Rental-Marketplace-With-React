@@ -9,11 +9,12 @@
 
 
 
-## Libraries/Stuff Used With React:
--[Material UI](https://material-ui.com/)
--React Router
--React Date Picker
--Flexbox
+### Libraries/Stuff Used With React:
+
+* [Material UI](https://material-ui.com/)
+* React Router
+* React Date Picker
+* Flexbox
 
 
 ## 🎌[See it live](https://airbnb-clone-c3424.web.app/)
