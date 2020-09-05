@@ -3,6 +3,7 @@
 
 
 
+## 📛 [See it live](https://airbnb-clone-c3424.web.app/) 📛
 
 ## How To Run:
 <code> npm i && npm start </code> - this will start the development server after installing the node modules
@@ -26,6 +27,6 @@
 
 
 
-## 📛 [See it live](https://airbnb-clone-c3424.web.app/) 📛
+
 
 ### *Hosted using Firebase* 🔥
